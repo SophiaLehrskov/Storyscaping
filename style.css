@@ -1,0 +1,32 @@
+/*
+ Theme Name:   astra-child-theme
+ Theme URI:    https://postmodern.lehrskovsophia.dk/
+ Description:  astra-child-theme
+ Author:       Sophia Lehrskov
+ Author URI:   http://example.com
+ Template:     astra
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://lehrskov.sophia.dk
+ Tags:       custom-menu, Eget logo, Underholdning, En kolonne, To kolonner, Venstre sidebar, E-Commerce, Højre sidebar, Egne farver, Editor-stylesheet, Udvalgte billeder, Fuld bredde, microformats, Indlægsformater, rtl-language-support, Temafunktioner, threaded-comments, translation-ready, Blog
+ Text Domain:  twentyfifteenchild
+*/
+
+.sticky{
+  position: sticky;
+  top:0;
+  padding: 637px;
+  font-size: 50px;
+  width: 100%;
+  Color:black;
+  font-family: helvetica;
+
+}
+
+.banner{
+  font-size: 15px;
+  font-weight: 600;
+  color: black;
+  font-family: helvetica;
+  display: block;
+}
